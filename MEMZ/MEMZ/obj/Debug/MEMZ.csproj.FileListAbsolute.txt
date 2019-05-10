@@ -1,0 +1,9 @@
+C:\Users\catteralldm\source\repos\MEMZ\MEMZ\obj\Debug\MEMZ.csprojAssemblyReference.cache
+C:\Users\catteralldm\source\repos\MEMZ\MEMZ\obj\Debug\MEMZ.Properties.Resources.resources
+C:\Users\catteralldm\source\repos\MEMZ\MEMZ\obj\Debug\MEMZ.csproj.GenerateResource.cache
+C:\Users\catteralldm\source\repos\MEMZ\MEMZ\obj\Debug\MEMZ.csproj.CoreCompileInputs.cache
+C:\Users\catteralldm\source\repos\MEMZ\MEMZ\bin\Debug\MEMZ.exe.config
+C:\Users\catteralldm\source\repos\MEMZ\MEMZ\bin\Debug\MEMZ.exe
+C:\Users\catteralldm\source\repos\MEMZ\MEMZ\bin\Debug\MEMZ.pdb
+C:\Users\catteralldm\source\repos\MEMZ\MEMZ\obj\Debug\MEMZ.exe
+C:\Users\catteralldm\source\repos\MEMZ\MEMZ\obj\Debug\MEMZ.pdb
