@@ -6,4 +6,4 @@ Note: Since this project was made in C#, I could not add some of the non-harmful
 This program was also designed to be immediate rather than sequential, meaning that all of the payloads will run at once instead of being duration-based.
 
 ### NOTE
-Unlike the original MEMZ, you can stop this virus by simply opening Task Manager (by pressing CTRL + SHIFT + ESC). Future versions will give you the ability to close out of the program without opening Task Manager.
+Unlike the original MEMZ, you can stop this virus by simply opening Task Manager (press CTRL + SHIFT + ESC on Windows 10). Future versions will give you the ability to close out of the program without opening Task Manager.
